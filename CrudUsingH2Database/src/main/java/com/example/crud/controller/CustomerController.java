@@ -80,7 +80,5 @@ public class CustomerController {
 			return new ResponseEntity<HttpStatus>(HttpStatus.INTERNAL_SERVER_ERROR);
 		}
 	}
-	
-	
 
 }
