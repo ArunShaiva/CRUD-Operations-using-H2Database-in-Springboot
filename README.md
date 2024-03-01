@@ -1,4 +1,4 @@
-CRUD Operations Using H2 Database
+<h1>CRUD Operations Using H2 Database </h1>
 This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using the H2 in-memory database in a Java application. It provides a simple example of how to interact with a database using JDBC (Java Database Connectivity) to perform these operations.
 
 Features
